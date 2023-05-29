@@ -32,7 +32,7 @@ const AppDataSource = new DataSource({
     host: "localhost",
     port: 5432,
     username: "",
-    password: "",
+    password: "omer",
     database: "ai_dojo",
     entities: [
         NoteEntity
